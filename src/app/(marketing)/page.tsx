@@ -1,3 +1,3 @@
-export default function Home() {
-  return <h1 className="">Welcome Home</h1>;
+export default function Marketing() {
+  return <h1 className="">Welcome To Marketing</h1>;
 }

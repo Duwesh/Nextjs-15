@@ -18,7 +18,7 @@ export default function AuthLayout({
             padding: "1rem",
           }}
         >
-          <p>Footer</p>
+          <p>Auth Footer</p>
         </footer>
       </body>
     </html>

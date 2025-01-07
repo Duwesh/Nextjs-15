@@ -17,7 +17,7 @@ export default function MarketingLayout({
             padding: "1rem",
           }}
         >
-          <p>Header</p>
+          <p>Revenue Header</p>
         </header>
         {children}
         <footer
@@ -26,7 +26,7 @@ export default function MarketingLayout({
             padding: "1rem",
           }}
         >
-          <p>Footer</p>
+          <p>Revenue Footer</p>
         </footer>
       </body>
     </html>
