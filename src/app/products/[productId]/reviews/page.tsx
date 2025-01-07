@@ -11,7 +11,7 @@ function Reviews() {
               key={i}
               className="text-blue-500 hover:underline"
             >
-              <span>Review {i}</span>
+              <span>Review {++i}</span>
             </Link>
           ))}
         </section>
